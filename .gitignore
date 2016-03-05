@@ -1,5 +1,5 @@
 .idea/
 *.txt/
-!user/*.txt/
+!app/user/*.txt/
 app/**/*.js/
 
